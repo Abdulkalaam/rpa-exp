@@ -1,5 +1,6 @@
 # AIM:
-To develop a UiPath workflow that takes a user’s name as input and displays a custom welcome message using a Switch case. If the input is "RAM", it should display "Welcome Mr. Ramachandran", else display different messages for each name, and a default message for other names.
+To develop a UiPath workflow that takes a user’s name as input and displays a custom welcome message using a Switch case. If the input is "RAM", it should display "Welcome Mr. Ramachandran",
+else display different messages for each name, and a default message for other names.
 
 # SOFTWARE REQUIRED:
 ```
@@ -27,10 +28,12 @@ Windows Operating System.
 ```
 
 # OUTPUT:
+
 ![image](https://github.com/user-attachments/assets/afe3bbe6-edb2-4e3d-8f3c-d700c508bd8a)
 ![image](https://github.com/user-attachments/assets/eb147115-10fa-4ac3-83aa-ccb442f01e12)
 
 
 
 # RESULT:
-The UiPath workflow was successfully created and executed. It accepted the user’s name as input and displayed a customized welcome message using a Switch case, as per the given condition.
+The UiPath workflow was successfully created and executed. It accepted the user’s name as input and displayed a customized welcome 
+message using a Switch case, as per the given condition.
