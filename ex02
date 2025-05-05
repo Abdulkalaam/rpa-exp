@@ -4,7 +4,7 @@ To develop a UiPath workflow that takes a user’s name as input and displays a 
 # SOFTWARE REQUIRED:
 ```
 UiPath Studio (2021 or later version recommended)
-Windows Operating System
+Windows Operating System.
 ```
 
 # PROCEDURE:
